@@ -11,4 +11,14 @@
 
 每个作业都是一个单独的.c文件，在对应的txt文件中记录了测试数据。
 
+| 算法名称                       | C文件                                |
+| ------------------------------ | ------------------------------------ |
+| 二分法求函数零点               | FindingZeroPointByDichotomy.c        |
+| 弦截法求函数零点               | FindingZeroPointByChord.c            |
+| 麦克劳林公式近似求解（sin37°） | MaclaurinApproximateSolutionOfSin.c  |
+| 麦克劳林公式近似求解（ln7）    | MaclaurinApproximateSolutionOfLog.c  |
+| 进退法求函数极小值点           | AdvanceAndRetreat.c                  |
+| 切线法求函数极小值点           | FindingMinimunPointByTangent.c       |
+| 0.618法求函数极小值点          | FindingMinimunPointByGoldenSection.c |
+
 **开源协议**：MIT License
